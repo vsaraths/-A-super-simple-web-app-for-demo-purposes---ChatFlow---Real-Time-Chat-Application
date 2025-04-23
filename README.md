@@ -2,7 +2,9 @@
 
 A modern, real-time chat application built with React, Socket.IO, Node.js, and Redis. ChatFlow enables users to join chat rooms and communicate instantly with others in a beautiful, responsive interface.
 
-![ChatFlow Screenshot](https://images.pexels.com/photos/7014761/pexels-photo-7014761.jpeg)
+![image](https://github.com/user-attachments/assets/b82a5c24-2158-4840-bca0-3fc732ae304f)
+![image](https://github.com/user-attachments/assets/70f671aa-9b3e-4005-8d3f-13e72460124d)
+
 
 ## Features
 
